@@ -1,5 +1,7 @@
 #!/bin/sh
-mpv.sh
 nvidia.sh
-rmbeep.sh
 utility.sh
+code.sh
+mpv.sh
+rmbeep.sh
+trans.sh
