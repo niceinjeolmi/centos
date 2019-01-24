@@ -28,6 +28,6 @@ if __name__ == "__main__":
 	if len(sys.argv) != 2:
 		print "사용법:"
 		print "$ addproject projectname"
-		sys.exi()
+		sys.exit()
 	name = sys.argv[1]
 	addProject(name)
