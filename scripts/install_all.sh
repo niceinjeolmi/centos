@@ -8,3 +8,4 @@ trans.sh
 djv.sh
 pip.sh
 devtools.sh
+ffmpeg.sh
