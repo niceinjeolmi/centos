@@ -14,3 +14,7 @@ pip install --user xlrd
 pip install --user xlwt
 pip install --user xlutils
 pip install --user pillow
+pip install --user timcode
+pip install --user edl
+pip install --user PySide2
+pip install --user opentimelineio
