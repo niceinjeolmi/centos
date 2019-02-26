@@ -8,6 +8,7 @@ if [[ $EUID -e 0 ]];then
 ./root/devtools.sh
 ./root/handbrake.sh
 ./root/openimageio.sh
+./root/pip_install.sh
 ./rmbeep.sh
 
 else
